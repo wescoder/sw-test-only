@@ -1,0 +1,22 @@
+{
+  "name": "sw-test-only",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "serve": "^9.1.1"
+  },
+  "devDependencies": {
+    "devcert": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "sw-precache-webpack-plugin": "^0.11.5",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Wésley Queiroz <wesley.coder@gmail.com> (https://github.com/wescoder)",
+  "license": "MIT"
+}
